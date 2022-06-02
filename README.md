@@ -7,10 +7,10 @@
 ---
 
 ![chrishoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishoonS&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishoonS&layout=compact)](https://github.com/chrishoonS/)
-<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chrishoon90)](https://solved.ac/profile/chrishoon90/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishoonS&layout=compact)](https://github.com/chrishoonS/)
+
 <!--주석란
 **chrishoonS/chrishoonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
