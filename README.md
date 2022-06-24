@@ -1,5 +1,4 @@
-<div align="center">
-  # ✨Ji Hoon, Song✨<br>
+<div align="center">✨Ji Hoon, Song✨<br><br>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchrishoonS&count_bg=%238ADAF1&title_bg=%231BC4F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   
 </div>
